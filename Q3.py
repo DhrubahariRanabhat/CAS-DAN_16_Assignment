@@ -27,10 +27,10 @@ def draw_branch(branch_length, depth, left_angle, right_angle, reduction_factor)
     turtle.backward(branch_length)
 
 # Get user input for tree parameters
-left_angle = int(input("Enter left branch angle: "))
-right_angle = int(input("Enter right branch angle: "))
-start_length = int(input("Enter starting branch length: "))
-depth = int(input("Enter recursion depth: "))
+left_angle = int(input("Enter left branch angle (e.g. 20): "))
+right_angle = int(input("Enter right branch angle (e.g. 25): "))
+start_length = int(input("Enter starting branch length (e.g. 100): "))
+depth = int(input("Enter recursion depth (e.g. 5): "))
 reduction_factor = float(input("Enter branch length reduction factor (e.g., 0.7): "))
 
 # Set up the turtle

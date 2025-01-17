@@ -1,0 +1,4 @@
+Summer: 32.10
+Autumn: 27.32
+Winter: 21.07
+Spring: 27.43

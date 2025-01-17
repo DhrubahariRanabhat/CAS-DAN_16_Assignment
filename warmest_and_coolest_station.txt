@@ -1,0 +1,2 @@
+Warmest: MARBLE-BAR (37.40)
+Coolest: CABRAMURRA-SMHEA-AWS (13.42)
